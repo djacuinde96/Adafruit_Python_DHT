@@ -1,6 +1,8 @@
 *DEPRECATED LIBRARY* Adafruit Python DHT Sensor Library
 =======================
 
+Original Repo: https://github.com/adafruit/Adafruit_Python_DHT
+
 This library has been deprecated! We are leaving this up for historical and research purposes but archiving the repository.
 
 We are now only supporting the use of our CircuitPython libraries for use with Python.
@@ -71,7 +73,6 @@ Python 3:
 cd Adafruit_Python_DHT
 sudo python3 setup.py install
 ```
-
 
 
 Usage
