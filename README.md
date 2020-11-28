@@ -49,9 +49,14 @@ sudo python3 -m pip install --upgrade pip setuptools wheel
 
 ### Compile and install from the repository
 
-First download the library source code from the [GitHub releases
-page](https://github.com/adafruit/Adafruit_Python_DHT/releases), unzipping the
-archive, and execute:
+First download the library source code
+
+You may also git clone the repository if you want to test an unreleased
+version:
+
+```sh
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+```
 
 Python 2:
 
@@ -67,12 +72,7 @@ cd Adafruit_Python_DHT
 sudo python3 setup.py install
 ```
 
-You may also git clone the repository if you want to test an unreleased
-version:
 
-```sh
-git clone https://github.com/adafruit/Adafruit_Python_DHT.git
-```
 
 Usage
 -----
