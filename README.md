@@ -74,6 +74,24 @@ cd Adafruit_Python_DHT
 sudo python3 setup.py install
 ```
 
+Virtual Environment:
+1) Activate virtual environment
+2) Check installed virtual environment packages
+
+```sh
+pip list
+```
+3) Install Package
+
+```sh
+pip install git+https://github.com/djacuinde96/Adafruit_Python_DHT.git
+```
+4) Recheck installed virtual environment packages
+
+```sh
+pip list
+```
+
 
 Usage
 -----
