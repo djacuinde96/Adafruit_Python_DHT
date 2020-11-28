@@ -55,7 +55,7 @@ You may also git clone the repository if you want to test an unreleased
 version:
 
 ```sh
-git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+git clone https://github.com/djacuinde96/Adafruit_Python_DHT.git
 ```
 
 Python 2:
