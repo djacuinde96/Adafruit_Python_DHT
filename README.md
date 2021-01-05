@@ -1,4 +1,4 @@
-*DEPRECATED LIBRARY* Adafruit Python DHT Sensor Library
+Adafruit Python DHT Sensor Library Supporting Raspberry 4 Model B
 =======================
 
 Original Repo: https://github.com/adafruit/Adafruit_Python_DHT
